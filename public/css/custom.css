@@ -1,0 +1,13 @@
+input[type="text"], input[type="email"], input[type="number"], input[type="password"], input[type="tel"], textarea {
+    background: #fff;
+    padding: 8px 15px;
+    border: 1px solid #cccccc;
+    font-size: 14px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    width: 60px;
+}
+.all {
+    margin-right: 35% !important;
+    margin-left: 35% !important;
+}
